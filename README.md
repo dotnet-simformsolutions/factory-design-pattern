@@ -20,16 +20,15 @@
 
   - PaymentProviders ( Strip, RazorPay, Paypal )
 
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/61b084e6-3017-447e-b17a-7e8b7c29a87f)
+    ![image](https://github.com/dotnet-simformsolutions/factory-design-pattern/blob/master/images/272917366-61b084e6-3017-447e-b17a-7e8b7c29a87f.png)
+    
+    ![image](https://github.com/dotnet-simformsolutions/factory-design-pattern/blob/master/images/272917382-e376ff4c-9cb0-4e9a-b21d-3af0b3713f59.png)
 
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/e376ff4c-9cb0-4e9a-b21d-3af0b3713f59)
-
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/3342822c-c69f-4e73-be24-0ec2b33e31a9)
+    ![image](https://github.com/dotnet-simformsolutions/factory-design-pattern/blob/master/images/272917410-3342822c-c69f-4e73-be24-0ec2b33e31a9.png)
 
   - We have PaymentProviderFactory that will return the regitered factory else return exception
 
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/2b633eaf-97a2-4cf2-897a-429801f3127b)
-
-
+    ![image](https://github.com/dotnet-simformsolutions/factory-design-pattern/blob/master/images/272917924-2b633eaf-97a2-4cf2-897a-429801f3127b.png)
+    
  - Click here to see the example : [Factory Pattern](https://github.com/jil1710/DesignPattern/tree/master/FactoryPattern)
 
